@@ -15,7 +15,7 @@ import colors from './src/styles/colors';
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
 
-c
+
 function MainTabs() {
   return (
     <Tab.Navigator
